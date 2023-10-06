@@ -30,3 +30,5 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a> 
   <a href="https://wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a> 
 </p>
+
+Contact me at [admin@hmoreda.com](mailto:admin@hmoreda.com)
