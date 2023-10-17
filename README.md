@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Hugo</h1>
 <h3 align="center">A programmer & Computer Science student from Spain</h3>
 
-- 🚧 Currently working on my personal projects [JavaExplorer](https://github.com/keelus/JavaExplorer) and [Peargram](https://github.com/keelus/peargram)
+- 🚧 Currently working on my personal projects [Kyozora](https://github.com/keelus/kyozora) and [Peargram](https://github.com/keelus/peargram)
 - 🌐 Check my personal website, projects & blog in [hmoreda.com](https://hmoreda.com) 👈
 
 <h3 align="left">Main languages & tools I'm using right now:</h3>
