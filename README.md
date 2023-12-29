@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Hugo</h1>
 <h3 align="center">A programmer & Computer Science student from Spain</h3>
 
-- 🦫 Currently working on a small personal game about cats and christmas 😺🎄.
+- 🦫 Currently working with Golang on a small personal game about cats and christmas 😺🎄.
 - 🌐 Check my personal website, projects & blog in [hmoreda.com](https://hmoreda.com) 👈
 
 <h3 align="left">Key programming languages & tools:</h3>
