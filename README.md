@@ -1,6 +1,7 @@
 <h1 align="center">👋 I'm Hugo</h1>
 <h3 align="center">A programmer & Computer Engineering student from Spain</h3>
 
+- 🚗 Currently working on a Bluetooth-controlled car, based on an ESP32 board.
 - 🌐 Check more about me and my projects in my portfolio: [hmoreda.com](https://hmoreda.com) 👈
 
 <h3 align="left">Key programming languages & tools:</h3>
@@ -11,7 +12,7 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> 
 </p>
-<h3 align="left">Some other languages & stuff I used a lot in the past:</h3>
+<h3 align="left">Some other languages & related software I have experience with:</h3>
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
