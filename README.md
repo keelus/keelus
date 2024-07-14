@@ -1,6 +1,7 @@
 <h1 align="center">👋 I'm Hugo</h1>
 <h3 align="center">A programmer & Computer Engineering student from Spain</h3>
 
+- 🦀 Currently learning Rust!
 - 🌐 Check more about me and my projects in my portfolio: [hmoreda.com](https://hmoreda.com) 👈
 
 <h3 align="left">Key programming languages & tools:</h3>
