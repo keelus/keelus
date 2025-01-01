@@ -1,11 +1,11 @@
 <h1 align="center">👋 I'm Hugo</h1>
 <h3 align="center">A programmer & Computer Engineering student from Spain</h3>
 
-- 🐦‍⬛ Currently working in a small 3D engine & software rasterizer.
 - 🌐 Check more about me and my projects in my portfolio: [hmoreda.com](https://hmoreda.com) 👈
 
 <h3 align="left">Key programming languages & tools:</h3>
 <p align="left">
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>  
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -23,4 +23,4 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a> 
 </p>
 
-Contact me at [admin@hmoreda.com](mailto:admin@hmoreda.com)
+Contact me at [admin@hmoreda.com](mailto:hi@hmoreda.com)
