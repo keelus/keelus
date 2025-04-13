@@ -27,4 +27,4 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a> 
 </p>
 
-Contact me at [admin@hmoreda.com](mailto:hi@hmoreda.com)
+Contact me at [hi@hmoreda.com](mailto:hi@hmoreda.com)
